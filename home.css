@@ -1,0 +1,54 @@
+.Menu {
+  list-style: none;
+  margin: o;
+  padding: 0;
+}
+.Menu a:active{
+    background-color: black;
+    color:grey;
+}
+
+
+li {
+  display: inline;
+}
+li a {
+  color: black;
+}
+body {
+  background-color: teal;
+}
+.header1 {
+  color: grey;
+  text-shadow: black;
+}
+.header2 {
+  color: white;
+  text-shadow: 2px 2px black;
+}
+.wrapper {
+  width: 70vw;
+  margin: 16px auto;
+  padding: 16px;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+#paragraph {
+  color: chocolate;
+  width: 50%;
+  
+}
+.paragraph2 {
+  color: chocolate;
+  text-decoration: underline;
+  width: 50%;
+}
+}
+.footer {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+}
